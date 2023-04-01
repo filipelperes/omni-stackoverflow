@@ -4,7 +4,7 @@
 @version        1.1.1
 @description    Dark mode for StackOverflow
 @author         filipelperes
-@updateURL      https://github.com/filipelperes/omni-stackoverflow/raw/master/stackoverflow.user.css
+@updateURL      https://github.com/filipelperes/omni-stackoverflow/raw/main/stackoverflow.user.css
 @preprocessor   stylus
 
 @var select    accent-color       "Accent Color"        ["red:Red", "green:Green", "cyan:Cyan", "orange:Orange", "pink:Pink", "purple:Purple*", "yellow:Yellow", "white:White", "comment:Comment Color"]
